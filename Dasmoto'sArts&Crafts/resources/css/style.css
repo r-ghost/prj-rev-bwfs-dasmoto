@@ -1,0 +1,53 @@
+.banner {
+      position:relative;
+      height:60px;
+      width: 1420px;
+      overflow: hidden;
+      margin-left: auto;
+      margin-right: auto;
+      padding-top: 50px;
+      padding-bottom: 50px;
+}
+
+.heading {
+      position: absolute;
+      text-align: center;
+      top: 0;
+      font-size:100px;
+      font-family:Helvetica;
+      font-weight: bold;
+      color: khaki;
+      width: 100%;
+      margin: auto;
+      padding-top: 50px;
+      padding-bottom: 50px;
+}
+
+h2 {
+      font-family: Helvetica;
+      font-size: 32px;
+      font-weight: bold;
+      color: white;
+}
+
+.brushes {
+      background-color: mediumspringgreen;
+}
+
+.frames {
+      background-color: lightcoral;
+}
+
+.paint {
+      background-color: skyblue;
+}
+
+h3,
+p {
+      font-family: Helvetica;
+      font-weight: bold;
+}
+
+.blue {
+      color: blue;
+}
